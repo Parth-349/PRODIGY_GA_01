@@ -37,15 +37,11 @@ We can never know who died for us all if we are ever told what happened after ou
 
 If GitHub fails to render the notebook properly, you can still view it using [NBViewer](https://nbviewer.org):
 
-🔗 **View this notebook on NBViewer**  
----
 
-## 📄 View Notebook Without GitHub Errors
+➡️ [View Output notebook on NBViewer](https://nbviewer.org/github/Parth-349/PRODIGY_GA_01/blob/main/Output.ipynb)
 
-If GitHub fails to render the Output notebook properly, you can still view it using [NBViewer](https://nbviewer.org):
 
-🔗 **View this notebook on NBViewer**  
-[[https://nbviewer.org/github/your-username/your-repo/blob/main/gpt2_finetuning_poetic.ipynb](https://nbviewer.org/github/your-username/your-repo/blob/main/gpt2_finetuning_poetic.ipynb)](https://nbviewer.org/github/Parth-349/PRODIGY_GA_01/blob/main/Output.ipynb)
+
 
 
 
