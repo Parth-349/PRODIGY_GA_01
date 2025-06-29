@@ -33,7 +33,7 @@ We can never know who died for us all if we are ever told what happened after ou
  
 ---
 
-## 📄 View Notebook Without GitHub Errors
+## 📄 View OUTPUT Notebook Without GitHub Errors
 
 If GitHub fails to render the Output notebook properly, you can still view it using [NBViewer](https://nbviewer.org):
 
