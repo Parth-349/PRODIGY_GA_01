@@ -31,3 +31,21 @@ Prompt: "Once upon a time"
 Generated:  Once upon a time in the darkest corner of their hearts, they knew that God was with them. And not even Jesus himself could speak to him honestly.[1]
 We can never know who died for us all if we are ever told what happened after our deaths as one man's testimony begins anew and fades away when another hears it again from its source: death itself.[2][3]] Acknowledge your own mortality by forgiving yourself deeply but knowing how much you deserve whatever pain awaits on an island somewhere inside yours
  
+---
+
+## 📄 View Notebook Without GitHub Errors
+
+If GitHub fails to render the notebook properly, you can still view it using [NBViewer](https://nbviewer.org):
+
+🔗 **View this notebook on NBViewer**  
+---
+
+## 📄 View Notebook Without GitHub Errors
+
+If GitHub fails to render the Output notebook properly, you can still view it using [NBViewer](https://nbviewer.org):
+
+🔗 **View this notebook on NBViewer**  
+[https://nbviewer.org/github/your-username/your-repo/blob/main/gpt2_finetuning_poetic.ipynb](https://nbviewer.org/github/your-username/your-repo/blob/main/gpt2_finetuning_poetic.ipynb)
+
+
+
