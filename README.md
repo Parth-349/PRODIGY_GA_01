@@ -33,12 +33,12 @@ We can never know who died for us all if we are ever told what happened after ou
  
 ---
 
-## 📄 View OUTPUT Notebook Without GitHub Errors
+## 📄 View Output.ipynb Without GitHub Errors
 
 If GitHub fails to render the Output notebook properly, you can still view it using [NBViewer](https://nbviewer.org):
 
 
-➡️ [View Output notebook on NBViewer](https://nbviewer.org/github/Parth-349/PRODIGY_GA_01/blob/main/Output.ipynb)
+➡️ [View Output.ipynb on NBViewer](https://nbviewer.org/github/Parth-349/PRODIGY_GA_01/blob/main/Output.ipynb)
 
 
 
