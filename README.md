@@ -28,5 +28,6 @@ Training a model to generate coherent and contextually relevant text based on a 
  Sample Output
 Prompt: "Once upon a time"
 
-Generated:  Once upon a time the wind blew through all corners of space like its own sails. For there was still hope after much suffering, but it seemed that even death itself could not keep quiet for long. It would always have to hear his voice as if in warning order: never again did she sing songs with an easy vow – ever before her heart gave up singing from within and began once more listening only above them…
-That's when I heard my father say "I'll tell you what will befall us." 
+Generated:  Once upon a time in the darkest corner of their hearts, they knew that God was with them. And not even Jesus himself could speak to him honestly.[1]
+We can never know who died for us all if we are ever told what happened after our deaths as one man's testimony begins anew and fades away when another hears it again from its source: death itself.[2][3]] Acknowledge your own mortality by forgiving yourself deeply but knowing how much you deserve whatever pain awaits on an island somewhere inside yours
+ 
