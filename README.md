@@ -35,7 +35,7 @@ We can never know who died for us all if we are ever told what happened after ou
  
 ---
 
-## 📄 View Output.ipynb Without GitHub Errors
+##  View Output.ipynb Without GitHub Errors
 
 If GitHub fails to render the Output notebook properly, you can still view it using [NBViewer](https://nbviewer.org):
 
