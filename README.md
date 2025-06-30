@@ -45,7 +45,7 @@ If GitHub fails to render the Output notebook properly, you can still view it us
 ---
 
 Author
-Project: PRODIGY_GA_02
+Project: PRODIGY_GA_01
 
 Maintainer: Parth Ubhad
 
