@@ -1,4 +1,4 @@
-# PRODIGY_GA_01
+# PRODIGY_GA_01_Text Generation with GPT-2
 Training a model to generate coherent and contextually relevant text based on a given prompt. Starting with GPT-2, a transformer model developed by OpenAI.
 
 ## What This Notebook Does:
@@ -44,10 +44,11 @@ If GitHub fails to render the Output notebook properly, you can still view it us
 
 ---
 
-Author
-Project: PRODIGY_GA_01
+## Author
 
-Maintainer: Parth Ubhad
+Parth Ubhad
+
+GitHub: [Parth-349](https://github.com/Parth-349)
 
 
 
